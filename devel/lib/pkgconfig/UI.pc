@@ -1,0 +1,8 @@
+prefix=/home/altair/item/SubwaySystem/devel
+
+Name: UI
+Description: Description of UI
+Version: 0.0.0
+Cflags: -I/home/altair/item/SubwaySystem/src/UI/include
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/altair/item/SubwaySystem/devel
+
+Name: Policy
+Description: Description of Policy
+Version: 0.0.0
+Cflags: -I/home/altair/item/SubwaySystem/devel/include -I/home/altair/item/SubwaySystem/src/Policy/include
+Libs: -L${prefix}/lib 
+Requires: geometry_msgs message_generation roscpp std_msgs

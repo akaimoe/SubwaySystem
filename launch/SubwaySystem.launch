@@ -1,0 +1,6 @@
+<launch>
+    <node pkg="Policy" type="PolicyMain" name="Policy" respawn="true"/>
+
+    <node pkg="UI" type="UI.py" name="publish_initial_pose" respawn="true" />
+
+</launch>

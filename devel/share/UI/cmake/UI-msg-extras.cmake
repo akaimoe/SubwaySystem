@@ -1,0 +1,2 @@
+set(UI_MESSAGE_FILES "")
+set(UI_SERVICE_FILES "")
